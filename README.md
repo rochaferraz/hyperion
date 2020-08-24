@@ -8,4 +8,4 @@
 
 ## Documentation
 
-Please visit [Hyperion WIKI](https://github.com/rochaferraz/hyperion/wiki) for documentation
+Please visit [Hyperion WIKI](https://github.com/rochaferraz/hyperion/wiki) for additional documentation
